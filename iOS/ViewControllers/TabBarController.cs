@@ -9,6 +9,7 @@ namespace ConnectedApp.iOS
 		{
 			TabBar.Items[0].Title = "Browse";
 			TabBar.Items[1].Title = "About";
+			 
 		}
 	}
 }
